@@ -1,4 +1,4 @@
-# Contributing to Yadino
+# Contributing to IR-Media
 
 We are excited that you are interested in contributing to our project! This document contains guidelines for contributing to this project, and we hope it will make participating a smooth experience for everyone.
 
